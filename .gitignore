@@ -1,3 +1,5 @@
 **/.DS_Store
 **/train.csv
 **/test.csv
+**/ignore
+leaf-classification/images
